@@ -15,5 +15,8 @@ For an outstanding contract, implied correlation needs to be computed for any fu
 Investors can use a correlation swap to hedge correlation risk. It gives investor exposures to the average correlation of an index. Correlation swaps also allow investors to speculate or bet or hedge future correlations.
 
 
-Reference:
-https://finpricing.com/lib/EqCorrelationSwap.html
+References:
+
+https://finpricing.com/lib/EqLookback.html
+
+https://bitbucket.org/cmrm11/eqcorrelation/downloads/EqCorrelationSwap-26.pdf
